@@ -1,0 +1,2 @@
+{'cat': 1}
+./static/images/U021d10f1a6140aa16793f986dd841723/jpg-3chaj8nl.jpg

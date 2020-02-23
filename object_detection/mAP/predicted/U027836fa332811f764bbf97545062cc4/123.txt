@@ -1,0 +1,12 @@
+{}
+./static/images/U027836fa332811f764bbf97545062cc4/jpg-wwg461ik.jpg
+{'dog': 1}
+./static/images/U027836fa332811f764bbf97545062cc4/jpg-0j1fw_ay.jpg
+{'dog': 1}
+./static/images/U027836fa332811f764bbf97545062cc4/jpg-ldhspqbd.jpg
+{'umbrella': 1, 'cat': 1}
+./static/images/U027836fa332811f764bbf97545062cc4/jpg-p9mu33na.jpg
+{'cat': 1}
+./static/images/U027836fa332811f764bbf97545062cc4/jpg-rp9i287p.jpg
+{'person': 2, 'bus': 1}
+./static/images/U027836fa332811f764bbf97545062cc4/jpg-bghip89e.jpg

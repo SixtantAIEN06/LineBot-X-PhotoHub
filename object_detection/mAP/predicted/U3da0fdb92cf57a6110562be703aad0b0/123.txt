@@ -1,0 +1,8 @@
+{'cat': 2}
+./static/images/U3da0fdb92cf57a6110562be703aad0b0/jpg-h_9kdvbw.jpg
+{'chair': 1, 'book': 9, 'cat': 2}
+./static/images/U3da0fdb92cf57a6110562be703aad0b0/jpg-k4ukni2v.jpg
+{'cat': 1}
+./static/images/U3da0fdb92cf57a6110562be703aad0b0/jpg-gdj1wt39.jpg
+{'person': 5, 'bench': 1, 'tvmonitor': 1}
+./static/images/U3da0fdb92cf57a6110562be703aad0b0/jpg-xtr8d7id.jpg

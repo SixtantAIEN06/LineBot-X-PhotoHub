@@ -1,0 +1,2 @@
+{'car': 1}
+./static/images/Uf563421715d301614509e80828e91d28/jpg-m4vmc9u6.jpg

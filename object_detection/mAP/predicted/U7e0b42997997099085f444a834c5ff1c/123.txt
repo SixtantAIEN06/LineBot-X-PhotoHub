@@ -1,0 +1,8 @@
+{'chair': 1, 'cat': 2}
+./static/images/U7e0b42997997099085f444a834c5ff1c/jpg-18g4ovh_.jpg
+{'person': 4}
+./static/images/U7e0b42997997099085f444a834c5ff1c/jpg-i7cs0fxi.jpg
+{'dog': 1, 'cat': 1}
+./static/images/U7e0b42997997099085f444a834c5ff1c/jpg-ma19pmh5.jpg
+{'cat': 1}
+./static/images/U7e0b42997997099085f444a834c5ff1c/jpg-fqqvtzl1.jpg

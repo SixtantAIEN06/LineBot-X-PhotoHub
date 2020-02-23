@@ -1,0 +1,2 @@
+{'book': 24}
+./static/images/Uc791798ab558dc99110d189386c8d592/jpg-4m2nqtu1.jpg
